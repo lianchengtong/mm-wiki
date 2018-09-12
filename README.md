@@ -45,6 +45,7 @@ MM-Wiki 是一个轻量级的企业知识分享与团队协同软件，可用于
     $ ./mm-wiki --conf conf/mm-wiki.conf
     # 浏览器访问你监听的 ip 和端口
     # 开始 MM-Wiki 的使用之旅吧！
+    # nohup ./mm-wiki --conf mm-wiki.conf & 后台进程运行
     ```
 
 - Windows 平台
